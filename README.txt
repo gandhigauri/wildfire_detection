@@ -29,6 +29,5 @@ Instructions:
    Replace 'path/to/test/data' with the path to your test dataset and 'path/to/your/best.pt' with your model weights path.
 
 Notes:
-- You can use the pre-trained model weights that are provided in this folder for validation and testing.
 - Ensure all paths are correct before running the scripts.
 - You may need to check the path to the train/val/test data in the data.yaml after running setup_dataset.py.
