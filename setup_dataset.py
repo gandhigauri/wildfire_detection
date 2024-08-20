@@ -32,7 +32,8 @@ def download_dataset(api_key, workspace, project, version):
 
 def main():
     # Roboflow details
-    ROBOFLOW_API_KEY = "p3gxKNouDRFeINIfXnDp"
+    # Enter your roboflow api key here
+    ROBOFLOW_API_KEY = "your_api_key_here"
     WORKSPACE = "unlv-c6san"
     PROJECT = "wildfire-detection-with-bounding-boxes"
     VERSION = 6
